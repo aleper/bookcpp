@@ -1,0 +1,4 @@
+g++ -Wall gradebook.cpp fig03_13.cpp -o fig03_13
+  OU
+g++ -Wall -c gradebook.cpp 
+g++ -Wall gradebook.o fig03_13.cpp -o fig03_13
