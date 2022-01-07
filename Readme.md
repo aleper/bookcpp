@@ -1,3 +1,4 @@
 # Como Programar - 5ª Edição - Deitel e Paul Harvey
-#
-# Exercicios Executados do Livro 
+
+Exemplos mostrados no livro e exercicios propostos .
+
