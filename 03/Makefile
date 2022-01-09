@@ -1,2 +1,2 @@
 clean:
-	rm `ls |grep -v cpp|grep -v Makefile`
+	rm `ls --file-type | grep -v / |grep -v cpp|grep -v Makefile |grep -v zargo`
